@@ -1,0 +1,19 @@
+.Input-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 25px 0;
+    
+    }
+    
+    .input-Label{
+    
+        font-weight: 500;
+        line-height: 1.2em;
+    }
+    .inputBox{
+     outline: none;
+     background-color: transparent;
+     border: none;
+     border-bottom: 1px solid black;
+     width: 400px;
+    }

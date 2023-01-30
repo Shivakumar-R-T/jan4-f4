@@ -1,0 +1,13 @@
+.Login-Container{
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+.Login_body{
+    width: max-content;
+    background-color: antiquewhite;
+    padding: 20px 30px;
+    border-radius: 2px;
+}
